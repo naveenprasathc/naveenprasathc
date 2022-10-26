@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naveenprasathc
-- 👀 I’m interested in Microcontrollers/SoCs, Firmware development, low-level drivers, Application Software, Android
+- 👀 I’m interested in Microcontrollers/SoCs, Firmware development, low-level drivers, Application Software, Android App development
 - 🌱 I’m currently learning Smart contract development for solana blockchain
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫  reach me over github @naveenprasathc
